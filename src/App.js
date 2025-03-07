@@ -71,8 +71,8 @@ function App() {
                   </div>
               </Section>
               <Section id="contact" title="Contact Us">
-                  <p>Address: XYZ Street, City, Country</p>
-                  <p>Phone: +123 456 789</p>
+                  <p>Address: Jorpati-Nayabasti, Kathmandu, Nepal</p>
+                  <p>Phone: 9841237161</p>
                   <p>Email: info@sanitaryshop.com</p>
               </Section>
           </main>
