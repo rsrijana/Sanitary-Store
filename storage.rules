@@ -1,0 +1,10 @@
+service firebase.storage {
+  // The {bucket} wildcard indicates we match files in all Cloud Storage buckets
+  match /b/{bucket}/o {
+    // Match filename
+    match /filename {
+      allow read: if <condition>;
+      allow write: if true;
+    }
+  }
+}
